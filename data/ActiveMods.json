@@ -1,17 +1,11 @@
 {
-  "exportedAt": "2026-04-14T19:33:36.9341276Z",
-  "totalActiveMods": 11,
+  "exportedAt": "2026-07-09T04:05:15.8701121Z",
+  "totalActiveMods": 29,
   "mods": [
     {
       "author": "Captolamia",
-      "name": "[CAP] Rimworld Interactive Chat Service DEV VERSION",
-      "steamId": null,
-      "version": null
-    },
-    {
-      "author": "Captolamia",
-      "name": "[CAP] Thunder Snow",
-      "steamId": null,
+      "name": "[CAP] Rimworld Interactive Chat Service",
+      "steamId": "3603078790",
       "version": null
     },
     {
@@ -21,16 +15,28 @@
       "version": null
     },
     {
-      "author": "Aleksey",
-      "name": "Better Stacktraces",
-      "steamId": "3541579129",
-      "version": null
+      "author": "Falconne",
+      "name": "Better Workbench Management",
+      "steamId": "935982361",
+      "version": "1.6.1.3"
     },
     {
       "author": "Ludeon Studios",
       "name": "Biotech",
       "steamId": null,
       "version": null
+    },
+    {
+      "author": "Defi",
+      "name": "Blueprints Forked - 1.6",
+      "steamId": "3525001145",
+      "version": null
+    },
+    {
+      "author": "void",
+      "name": "Character Editor",
+      "steamId": "1874644848",
+      "version": "1.6.1"
     },
     {
       "author": "Ludeon Studios",
@@ -57,9 +63,57 @@
       "version": null
     },
     {
+      "author": "turkler",
+      "name": "Knick Knacks - Let your colonists decorate!",
+      "steamId": "3595196942",
+      "version": null
+    },
+    {
+      "author": "Andromeda",
+      "name": "Nice Bill Tab",
+      "steamId": "3520130671",
+      "version": null
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Odyssey",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Taranchuk",
+      "name": "Performance Optimizer",
+      "steamId": "2664723367",
+      "version": null
+    },
+    {
+      "author": "Mehni",
+      "name": "Pick Up And Haul",
+      "steamId": "1279012058",
+      "version": null
+    },
+    {
+      "author": "Peppsen",
+      "name": "P-Music",
+      "steamId": "725130005",
+      "version": null
+    },
+    {
+      "author": "mastertea",
+      "name": "RandomPlus",
+      "steamId": "1434137894",
+      "version": null
+    },
+    {
+      "author": "Uuugggg",
+      "name": "Replace Stuff - Continued",
+      "steamId": "3526354009",
+      "version": null
+    },
+    {
+      "author": "Spuffy",
+      "name": "Replantable Anima Trees (Continued)",
+      "steamId": "3503586725",
       "version": null
     },
     {
@@ -67,6 +121,60 @@
       "name": "Royalty",
       "steamId": null,
       "version": null
+    },
+    {
+      "author": "HopeSeekr",
+      "name": "Savegame Shrinker",
+      "steamId": "2978713095",
+      "version": null
+    },
+    {
+      "author": "avilmask",
+      "name": "Self Dyeing",
+      "steamId": "2562859859",
+      "version": null
+    },
+    {
+      "author": "ray1203",
+      "name": "SimpleCameraSetting",
+      "steamId": "3232415388",
+      "version": null
+    },
+    {
+      "author": "Sarg",
+      "name": "Smart Speed",
+      "steamId": "1504723424",
+      "version": null
+    },
+    {
+      "author": "Pyrce, Jia",
+      "name": "Terrain Zone Selections (Continued)",
+      "steamId": "3455447236",
+      "version": "1.0"
+    },
+    {
+      "author": "TimmyLiang",
+      "name": "TradeHelper",
+      "steamId": "2113372560",
+      "version": null
+    },
+    {
+      "author": "pureMJ",
+      "name": "Vanilla Fix: Haul After Slaughter",
+      "steamId": "2801452324",
+      "version": null
+    },
+    {
+      "author": "1trickPwnyta",
+      "name": "Visible Raid Points",
+      "steamId": "2562730174",
+      "version": "1.7.2"
+    },
+    {
+      "author": "1trickPwnyta",
+      "name": "Visible Wealth",
+      "steamId": "3461137081",
+      "version": "1.1.3"
     }
   ]
 }
