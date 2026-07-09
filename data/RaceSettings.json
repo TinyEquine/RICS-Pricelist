@@ -81,7 +81,7 @@
       "MG_Slime": false,
       "MG_Thrumbogirl": false,
       "MG_Wolfgirl": false,
-      "Ratkin_Xeno": true,
+      "Ratkin_Xeno": false,
       "Wolfein_Xenotype": false,
       "Wolfein_Xenotype_PureBlood": false,
       "Ratkin_Hamster": false,
@@ -92,7 +92,7 @@
       "Ratkin_Vole": false,
       "Ratkin_VolePrototype": false,
       "Ratkin_Waster": false,
-      "MiliraXenotype": true
+      "MiliraXenotype": false
     }
   },
   "Alien_Nyaron": {
