@@ -237,7 +237,7 @@
       "Mod": "Core",
       "BasePrice": 42,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "SculptureSmall": {
@@ -1273,7 +1273,7 @@
       "BasePrice": 11,
       "Category": "Security",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "TrapSpike": {
       "DefName": "TrapSpike",
@@ -1812,7 +1812,7 @@
       "Mod": "Core",
       "BasePrice": 8,
       "Category": "Animal products",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Skull": {
@@ -6775,7 +6775,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 310,
+      "BasePrice": 3000,
       "Category": "Art",
       "Enabled": true,
       "modactive": true
@@ -10852,7 +10852,7 @@
       "QuantityLimit": 5,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 135,
@@ -10867,7 +10867,7 @@
       "QuantityLimit": 5,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 255,
@@ -10897,7 +10897,7 @@
       "QuantityLimit": 5,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 355,
@@ -10912,7 +10912,7 @@
       "QuantityLimit": 5,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 425,
@@ -10942,7 +10942,7 @@
       "QuantityLimit": 5,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 530,
@@ -10957,7 +10957,7 @@
       "QuantityLimit": 5,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 1160,
@@ -10972,7 +10972,7 @@
       "QuantityLimit": 5,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 132,
@@ -11002,7 +11002,7 @@
       "QuantityLimit": 5,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 1355,
@@ -11017,7 +11017,7 @@
       "QuantityLimit": 5,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 495,
@@ -11032,7 +11032,7 @@
       "QuantityLimit": 5,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 1235,
@@ -11127,7 +11127,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2,
       "Category": "Stone blocks",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "ArcheanSeed": {
@@ -11908,7 +11908,7 @@
       "BasePrice": 860,
       "Category": "Production",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "BiosculpterPod_2x2_Left": {
       "DefName": "BiosculpterPod_2x2_Left",
@@ -11923,7 +11923,7 @@
       "BasePrice": 455,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "BiosculpterPod_2x2_Right": {
       "DefName": "BiosculpterPod_2x2_Right",
@@ -11938,7 +11938,7 @@
       "BasePrice": 455,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "BiosculpterPod_1x2_Center": {
       "DefName": "BiosculpterPod_1x2_Center",
@@ -11953,7 +11953,7 @@
       "BasePrice": 455,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "BiosculpterPod_1x3_Center": {
       "DefName": "BiosculpterPod_1x3_Center",
@@ -11968,7 +11968,7 @@
       "BasePrice": 455,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "NeuralSupercharger_1x2_Center": {
       "DefName": "NeuralSupercharger_1x2_Center",
@@ -11983,7 +11983,7 @@
       "BasePrice": 245,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "D9Ash": {
       "DefName": "D9Ash",
@@ -11998,7 +11998,7 @@
       "BasePrice": 1,
       "Category": "Raw resources",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Kurin_nanoedge": {
       "DefName": "Kurin_nanoedge",
@@ -12013,7 +12013,7 @@
       "BasePrice": 4500,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Nr_MiniSword": {
       "DefName": "Nr_MiniSword",
@@ -12028,7 +12028,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Nr_Xeushammer": {
       "DefName": "Nr_Xeushammer",
@@ -12043,7 +12043,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Nr_PlasmSword": {
       "DefName": "Nr_PlasmSword",
@@ -12058,7 +12058,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_Bear_Grizzly": {
       "DefName": "Meat_Bear_Grizzly",
@@ -14127,6 +14127,96 @@
       "Mod": "Royalty",
       "BasePrice": 250,
       "Category": "Psytrainers",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BionicHeart": {
+      "DefName": "BionicHeart",
+      "CustomName": "Bionic heart",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Core",
+      "BasePrice": 1030,
+      "Category": "Bionic",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BionicStomach": {
+      "DefName": "BionicStomach",
+      "CustomName": "Bionic stomach",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Core",
+      "BasePrice": 785,
+      "Category": "Bionic",
+      "Enabled": true,
+      "modactive": true
+    },
+    "SimpleProstheticHeart": {
+      "DefName": "SimpleProstheticHeart",
+      "CustomName": "Prosthetic heart",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Core",
+      "BasePrice": 230,
+      "Category": "Prosthetic",
+      "Enabled": true,
+      "modactive": true
+    },
+    "RimazonLockerSmall": {
+      "DefName": "RimazonLockerSmall",
+      "CustomName": "Small rimazon locker",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "[CAP] Rimworld Interactive Chat Service",
+      "BasePrice": 131,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Zombrella": {
+      "DefName": "Zombrella",
+      "CustomName": "Zombrella",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Character Editor",
+      "BasePrice": 2000,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Zombgrella": {
+      "DefName": "Zombgrella",
+      "CustomName": "Zombgrella",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Character Editor",
+      "BasePrice": 385,
+      "Category": "Misc",
       "Enabled": true,
       "modactive": true
     }

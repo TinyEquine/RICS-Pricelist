@@ -1259,5 +1259,22 @@
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
     "CustomData": ""
+  },
+  "rescueme": {
+    "Enabled": true,
+    "CooldownSeconds": 0,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "subscriber",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 0,
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": "{\"leftBehindCost\":\"400\",\"capturedCost\":\"800\"}"
   }
 }
